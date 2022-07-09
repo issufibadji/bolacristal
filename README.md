@@ -26,7 +26,7 @@
  
 ## :book: Sobre
 O **BolaCrista**
- Projeto desenvolvido de perfil de rede, que foi desenvolvido sociais durante as aulas da [Maratona Explore 1.0](https://evento.rocketseat.com.br/maratona-explorer/episodios/explorer/aula-1/edicao/1), com Mayk   Brito do [Rocketseat](https://www.rocketseat.com.br/)
+ é um app de pergunta e resposta, que foi desenvolvido sociais durante as aulas da [Maratona Explore 1.0](https://evento.rocketseat.com.br/maratona-explorer/episodios/explorer/aula-1/edicao/1), com Mayk   Brito do [Rocketseat](https://www.rocketseat.com.br/)
 
 ## :cloud: Deploy
 O projeto está hospedado no Github Pages
