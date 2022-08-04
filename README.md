@@ -22,7 +22,7 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/bolacristal?style=flat-square">
 </p>
 
-![profile](https://github.com/issufibadji/bolacristal/blob/master/cristal-ball.svg)
+![profile](https://github.com/issufibadji/bolacristal/blob/master/bolacristal.png)
  
 ## :book: Sobre
 O **BolaCrista**
